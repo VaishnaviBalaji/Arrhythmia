@@ -1,5 +1,6 @@
-# Arrhythmia
-Deep learning model to detect arrhythmia based on ECG data
+
+
+Detection of arrhythmia in its early stages enables ease of treatment, and also reduces the risk of one's health. The conventional ECG machines can be used in rural areas where healthcare is primary and professional cardiologists are not available at ready. This project focuses on studying the heartbeats of various arrhythmia conditions and devising a novel way to predict the arrhythmia types using deep learing models like CNN, LSTM and GRU. Evaluation and performance of the models are done using confusion matrix, precision, recall and F1 scores. 
 
 **Dataset:** https://www.kaggle.com/shayanfazeli/heartbeat
 
