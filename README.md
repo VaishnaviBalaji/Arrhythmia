@@ -4,7 +4,7 @@ Deep learning model to detect arrhythmia based on ECG data
 **Dataset:** https://www.kaggle.com/shayanfazeli/heartbeat
 
 **MAIN_Arrhytmia_5fold.ipynb:**
-This is the main coding file that contains the proper preprocessing with appropriate comments, three deep learning neural network models with their evaluations, and acknowledgments 
+This is the main coding file that contains the proper preprocessing with appropriate comments, three deep learning neural network models namely CNN, LSTM and GRU with their evaluations, and acknowledgments 
 
 
 **Baseline_KNN.ipynb:**
